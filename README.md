@@ -51,10 +51,23 @@
 
 **📷 Sample Visualizations**
 
-    ![Plot1](https://github.com/user-attachments/assets/3c28954c-4ac2-4bfb-8a18-f421f8999e65)
-    ![Plot2](https://github.com/user-attachments/assets/caf99950-d48e-442e-8107-6ac4ae726930)
-    ![Plot3](https://github.com/user-attachments/assets/97245e41-9050-4062-82a8-56f8eedc0007)
-    ![Plot4](https://github.com/user-attachments/assets/6230e02c-4a2e-4cf6-9f0c-b0a04d51d2ac)
+    Here is one of the graphs from the analysis:
+
+    ![COVID-19 Cases Over Time]
+    (assets/Global New Cases.jpg)
+
+    Another example:
+
+    ![Cases of Different Countries]
+    (assets/India New Cases.jpg)
+
+    (assets/US New Cases.jpg)
+
+    (assets/Brazil New Cases.jpg)
+
+
+
+    
 
 
 **📜 License**
