@@ -53,21 +53,10 @@
 
     Here is one of the graphs from the analysis:
 
-    ![COVID-19 Cases Over Time]
-    (assets/Global New Cases.jpg)
-
-    Another example:
-
-    ![Cases of Different Countries]
-    (assets/India New Cases.jpg)
-
-    (assets/US New Cases.jpg)
-
-    (assets/Brazil New Cases.jpg)
-
-
-
-    
+    ![COVID-19 Cases Over Time](assets/Global_New_Cases.jpg)
+    ![India Cases](assets/India_New_Cases.jpg)
+    ![US Cases](assets/US_New_Cases.jpg)
+    ![Brazil Cases](assets/Brazil_New_Cases.jpg)
 
 
 **📜 License**
