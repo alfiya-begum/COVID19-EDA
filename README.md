@@ -51,12 +51,14 @@
 
 **📷 Sample Visualizations**
 
-    Here is one of the graphs from the analysis:
+    ![COVID-19 Cases Over Time](https://github.com/FKJ5567/COVID19-EDA/blob/main/assets/Global_New_Cases.jpg?raw=true)
 
-    ![COVID-19 Cases Over Time](assets/Global_New_Cases.jpg)
-    ![India Cases](assets/India_New_Cases.jpg)
-    ![US Cases](assets/US_New_Cases.jpg)
-    ![Brazil Cases](assets/Brazil_New_Cases.jpg)
+    ![India Cases](https://github.com/FKJ5567/COVID19-EDA/blob/main/assets/India__New_Cases.jpg?raw=true)
+
+    ![US Cases](https://github.com/FKJ5567/COVID19-EDA/blob/main/assets/US_New_Cases.jpg?raw=true)
+
+    ![Brazil Cases](https://github.com/FKJ5567/COVID19-EDA/blob/main/assets/Brazil_New_Cases.jpg?raw=true)
+
 
 
 **📜 License**
