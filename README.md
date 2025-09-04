@@ -31,7 +31,7 @@
 
 **▶️ How to Run**
 
-    git clone https://github.com/FKJ5567/COVID19-EDA.git
+    git clone https://github.com/alfiya-begum/COVID19-EDA.git
 
     cd COVID19-EDA
 
